@@ -1,45 +1,64 @@
-# 👨‍💻 Abdul Wahab
+<div align="center">
 
-### Software Engineering Student | Full-Stack Developer | Backend & Data Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Abdul+Wahab;Software+Engineering+Student;Full+Stack+Developer;Backend+%26+Data+Enthusiast;FAST+NUCES+Student" />
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Og-Brutal&label=PROFILE+VIEWS&color=009002&style=for-the-badge&labelColor=0A0A0A"/>
+  
+  <a href="https://github.com/Og-Brutal?tab=followers">
+    <img src="https://img.shields.io/github/followers/Og-Brutal?label=FOLLOWERS&style=for-the-badge&color=009002&labelColor=0A0A0A"/>
+  </a>
+  
+  <a href="https://github.com/Og-Brutal">
+    <img src="https://img.shields.io/github/stars/Og-Brutal?label=STARS&style=for-the-badge&color=009002&labelColor=0A0A0A"/>
+  </a>
+  
+  <a href="https://github.com/Og-Brutal?tab=repositories">
+    <img src="https://img.shields.io/badge/CODE-ARCHIVE?style=for-the-badge&color=009002&labelColor=0A0A0A"/>
+  </a>
+</p>
 
 ---
 
-# 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
+# 🪐 About Me
+
+<table align="center">
 <tr>
-<td width="45%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhyendtdHducHUxNHhxeWIwMGZzcGp0dHhqa3RldHpubGRweDRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%"/>
+<td width="40%">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhyendtdHducHUxNHhxeWIwMGZzcGp0dHhqa3RldHpubGRweDRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" />
 
 </td>
 
-<td width="55%">
+<td width="60%">
 
-I am a **Software Engineering student at FAST NUCES** with a strong foundation in **system design, software development, and full-stack application development**.
+**Abdul Wahab** is a **Software Engineering student at FAST NUCES** with a strong foundation in **system design, software development, and full-stack application development**.
 
-I have hands-on experience with technologies including **C++, Java, Python, Kotlin, JavaScript**, and modern **web technologies (HTML, CSS, React, Node.js)**.
+### 🔭 Current Focus
+Building scalable applications using **modern backend architectures and full-stack frameworks**.
 
-My technical background also includes:
+### 🧠 Technical Experience
+- ⚡ Shell scripting & system automation  
+- 📊 Data analysis using **NumPy, Pandas, Matplotlib**  
+- 🌐 Web scraping with **BeautifulSoup**  
+- 🗄 Database systems using **SQL, MySQL, MongoDB**
 
-- ⚡ **Shell scripting & system automation**  
-- 📊 **Data analysis using NumPy, Pandas, Matplotlib**  
-- 🌐 **Web scraping with BeautifulSoup**  
-- 🗄️ **Database management with SQL, MySQL, MongoDB**
-
-I also have practical experience in **API development, backend system design, and software testing**, building **structured, scalable, and maintainable systems**.
-
-As a **Teaching Assistant**, I guided students through programming assignments, evaluated their work, and strengthened my **collaboration, leadership, and communication skills**.
-
-💡 Passionate about **learning emerging technologies, building impactful software, and solving real-world problems through code**.
+### 🧑‍🏫 Teaching Experience
+Worked as a **Teaching Assistant**, mentoring students in programming concepts and evaluating technical assignments.
 
 ### 🎯 Focus Areas
 - 🚀 Full-Stack Development  
-- ⚙️ Backend Systems  
+- ⚙ Backend Systems  
 - 🤖 Data Science & Computer Vision  
 - 🧠 Prompt Engineering  
 
 </td>
+
 </tr>
 </table>
 
@@ -47,101 +66,119 @@ As a **Teaching Assistant**, I guided students through programming assignments, 
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Wahab-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Abdul-Wahab)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ogbrutal2825@gmail.com)
+<a href="https://linkedin.com/in/Abdul-Wahab">
+<img src="https://img.shields.io/badge/LinkedIn-Abdul%20Wahab-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Og--Brutal-black?style=for-the-badge&logo=github)](https://github.com/Og-Brutal)
+<a href="mailto:ogbrutal2825@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Og-Brutal">
+<img src="https://img.shields.io/badge/GitHub-Og--Brutal-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 🛡️ Technical Arsenal
 
-## 🧠 Programming Languages
+## 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-black?style=for-the-badge&logo=assemblyscript)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 
 ---
 
 ## 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router)
-![React Query](https://img.shields.io/badge/react_query-FF4154?style=for-the-badge)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge)
 
 ---
 
-## 🤖 Data Science & Computer Vision
+## 🤖 Computer Vision & Data Science
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-white?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/scipy-0C55A5?style=for-the-badge&logo=scipy)
-![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly)
-![Streamlit](https://img.shields.io/badge/streamlit-FE4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 🗄️ Databases
+## 🗄 Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb)
-![Microsoft SQL Server](https://img.shields.io/badge/sql_server-CC2927?style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb)
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite)
 
 ---
 
-## ⚙️ Tools & DevOps
+## ⚙ Tools & DevOps
 
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle)
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Og-Brutal&theme=tokyonight&show_icons=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight" height="180"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Og-Brutal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true"/>
+
+</div>
 
 ---
 
-# 📈 Profile Views
+# 📈 Contribution Graph
 
-![](https://visitcount.itsvg.in/api?id=Og-Brutal&icon=3&color=6)
+<div align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Og-Brutal&theme=react-dark&hide_border=true"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" width="100%" />
