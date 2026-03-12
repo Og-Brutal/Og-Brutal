@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=200&section=header&text=Abdul%20Wahab&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Backend+%26+Data+Enthusiast;FAST+NUCES+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Backend+%26+Data+Enthusiast;FAST+NUCES+Student" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Og-Brutal&label=PROFILE+VIEWS&color=00AAFF&style=for-the-badge&labelColor=1a1a1a"/>
@@ -75,7 +75,7 @@
 
 ### 🛠️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&lineColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
@@ -90,26 +90,23 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" height="170" />
 </div>
 
 <div align="center">
-  <!-- Official Replacement for the old Heroku streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" height="170" />
 </div>
 
 <div align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true&no-bg=true" />
 </div>
 
 ---
 
 ### 📈 Contribution History
 <div align="center">
-  <!-- New Activity Graph on Vercel -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%"/>
 </div>
 
 ---
