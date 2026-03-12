@@ -90,23 +90,23 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true&no-bg=true" />
 </div>
 
 ---
 
 ### 📈 Contribution History
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%"/>
 </div>
 
 ---
