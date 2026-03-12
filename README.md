@@ -75,7 +75,7 @@
 
 ### 🛠️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&lineColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
@@ -90,12 +90,12 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" width="100%" />
 </div>
 
 <div align="center">
