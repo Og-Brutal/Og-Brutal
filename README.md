@@ -99,6 +99,7 @@
 </div>
 
 <div align="center">
+  <!-- Trophies (Fixed URL) -->
   <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </div>
 
@@ -106,7 +107,8 @@
 
 ### 📈 Contribution History
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Og-Brutal&theme=react-dark&hide_border=true&color=00AAFF" width="100%"/>
+  <!-- Activity Graph (New Reliable Vercel URL) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%"/>
 </div>
 
 ---
