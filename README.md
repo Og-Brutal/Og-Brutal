@@ -31,31 +31,22 @@
 
 <td width="40%">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhyendtdHducHUxNHhxeWIwMGZzcGp0dHhqa3RldHpubGRweDRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhyendtdHducHUxNHhxeWIwMGZzcGp0dHhqa3RldHpubGRweDRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" height="220px" />
 
 </td>
 
-<td width="60%">
+<td width="60%" valign="top">
 
-**Abdul Wahab** is a **Software Engineering student at FAST NUCES** with a strong foundation in **system design, software development, and full-stack application development**.
+**Abdul Wahab** – Software Engineering student at FAST NUCES with experience in **system design, full-stack development, and data analysis**.
 
 ### 🔭 Current Focus
 Building scalable applications using **modern backend architectures and full-stack frameworks**.
 
-### 🧠 Technical Experience
-- ⚡ Shell scripting & system automation  
-- 📊 Data analysis using **NumPy, Pandas, Matplotlib**  
-- 🌐 Web scraping with **BeautifulSoup**  
-- 🗄 Database systems using **SQL, MySQL, MongoDB**
-
-### 🧑‍🏫 Teaching Experience
-Worked as a **Teaching Assistant**, mentoring students in programming concepts and evaluating technical assignments.
-
-### 🎯 Focus Areas
-- 🚀 Full-Stack Development  
-- ⚙ Backend Systems  
-- 🤖 Data Science & Computer Vision  
-- 🧠 Prompt Engineering  
+### 🧠 Skills
+- ⚡ Shell scripting & automation  
+- 📊 Data analysis: **NumPy, Pandas, Matplotlib**  
+- 🌐 Web scraping: **BeautifulSoup**  
+- 🗄 Databases: **SQL, MySQL, MongoDB**  
 
 </td>
 
@@ -87,7 +78,6 @@ Worked as a **Teaching Assistant**, mentoring students in programming concepts a
 # 🛡️ Technical Arsenal
 
 ## 💻 Programming Languages
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
@@ -100,7 +90,6 @@ Worked as a **Teaching Assistant**, mentoring students in programming concepts a
 ---
 
 ## 🌐 Web Development
-
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)
@@ -111,7 +100,6 @@ Worked as a **Teaching Assistant**, mentoring students in programming concepts a
 ---
 
 ## 🤖 Computer Vision & Data Science
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
@@ -120,7 +108,6 @@ Worked as a **Teaching Assistant**, mentoring students in programming concepts a
 ---
 
 ## 🗄 Databases
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite)
@@ -128,7 +115,6 @@ Worked as a **Teaching Assistant**, mentoring students in programming concepts a
 ---
 
 ## ⚙ Tools & DevOps
-
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
@@ -152,33 +138,3 @@ Worked as a **Teaching Assistant**, mentoring students in programming concepts a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Og-Brutal&theme=tokyonight"/>
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Og-Brutal&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you like my work, consider giving a star to my repositories!**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" width="100%" />
