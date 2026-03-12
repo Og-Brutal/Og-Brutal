@@ -23,14 +23,17 @@
     <td width="35%" align="center">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhyendtdHducHUxNHhxeWIwMGZzcGp0dHhqa3RldHpubGRweDRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="65%">
-      I am <b>Abdul Wahab</b>, a Software Engineering student at <b>FAST NUCES</b>. I am a dedicated Full Stack Developer with a deep interest in backend systems and data science. My goal is to build scalable, high-performance applications that solve real-world problems.
-
-      ### 🔭 Focus Areas
-      - 🚀 **Full-Stack Development** (Modern Web Architectures)
-      - ⚙️ **Backend Systems** (Scalable APIs & Microservices)
-      - 🤖 **Data Science** (Computer Vision & Machine Learning)
-      - 🧠 **Teaching & Mentoring** (Previous Teaching Assistant)
+    <td width="65%" valign="top">
+      <p align="left">
+        I am <b>Abdul Wahab</b>, a Software Engineering student at <b>FAST NUCES</b>. I am a dedicated Full Stack Developer with a deep interest in backend systems and data science. My goal is to build scalable, high-performance applications that solve real-world problems.
+      </p>
+      <h3 align="left">🔭 Focus Areas</h3>
+      <ul align="left">
+        <li>🚀 <b>Full-Stack Development</b> (Modern Web Architectures)</li>
+        <li>⚙️ <b>Backend Systems</b> (Scalable APIs & Microservices)</li>
+        <li>🤖 <b>Data Science</b> (Computer Vision & Machine Learning)</li>
+        <li>🧠 <b>Teaching & Mentoring</b> (Previous Teaching Assistant)</li>
+      </ul>
     </td>
   </tr>
 </table>
