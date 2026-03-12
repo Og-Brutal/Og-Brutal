@@ -4,7 +4,17 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
+</td>
+
+<td width="60%">
 
 I am a **Software Engineering student at FAST NUCES** with a strong foundation in **system design, software development, and full-stack application development**.
 
@@ -12,30 +22,36 @@ I have hands-on experience with technologies including **C++, Java, Python, Kotl
 
 My technical background also includes:
 
-- Shell scripting and system automation  
-- Data analysis using **NumPy, Pandas, Matplotlib**  
-- Web scraping with **BeautifulSoup**  
-- Database management with **SQL, MySQL, MongoDB**
+- ⚡ **Shell scripting & system automation**
+- 📊 **Data analysis using NumPy, Pandas, Matplotlib**
+- 🌐 **Web scraping with BeautifulSoup**
+- 🗄️ **Database management with SQL, MySQL, MongoDB**
 
-I also have practical experience in **API development, backend system design, and software testing**, building **structured, scalable, and maintainable software systems**.
+I also have practical experience in **API development, backend system design, and software testing**, building **structured, scalable, and maintainable systems**.
 
 As a **Teaching Assistant**, I guided students through programming assignments, evaluated their work, and strengthened my **collaboration, leadership, and communication skills**.
 
-💡 I am passionate about **learning new technologies, contributing to impactful projects, and collaborating in innovative environments**.
+💡 Passionate about **learning emerging technologies, building impactful software, and solving real-world problems through code**.
 
-My focus areas include:
+### 🎯 Focus Areas
 
-- Full-Stack Development  
-- Backend Systems  
-- Data Science & Computer Vision  
-- Prompt Engineering
+- 🚀 Full-Stack Development  
+- ⚙️ Backend Systems  
+- 🤖 Data Science & Computer Vision  
+- 🧠 Prompt Engineering  
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Wahab-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Abdul-Wahab)
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ogbrutal2825@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Og--Brutal-black?style=for-the-badge&logo=github)](https://github.com/Og-Brutal)
 
 ---
@@ -48,10 +64,10 @@ My focus areas include:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-black?style=for-the-badge&logo=assemblyscript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 
 ---
