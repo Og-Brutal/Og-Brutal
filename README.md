@@ -99,7 +99,6 @@
 </div>
 
 <div align="center">
-  <!-- Trophies (Fixed URL) -->
   <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </div>
 
@@ -107,14 +106,13 @@
 
 ### 📈 Contribution History
 <div align="center">
-  <!-- Activity Graph (New Reliable Vercel URL) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/Abdul-Wahab">
+  <a href="https://www.linkedin.com/in/abdul-wahab-09b364388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ogbrutal2825@gmail.com">
