@@ -11,8 +11,7 @@
     </a>
   </p>
 </div>
----
- 
+<hr/>
 # 🪐 About Me
  
 <table align="center">
@@ -34,8 +33,7 @@
     </td>
   </tr>
 </table>
----
- 
+<hr/>
 # 🛡️ Technical Arsenal
  
 <div align="center">
@@ -132,28 +130,22 @@
 <div align="center">
   <sub>⚡ <i>Always learning. Always building.</i> ⚡</sub>
 </div>
----
- 
+<hr/>
 # 📊 GitHub Analytics
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Og-Brutal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00AAFF&icon_color=00AAFF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Og-Brutal&layout=compact&theme=tokyonight&hide_border=true&title_color=00AAFF" height="170" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" height="170" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Og-Brutal&theme=tokyonight&no-frame=true&no-bg=true" />
-</div>
----
- 
+<hr/>
 ### 📈 Contribution History
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Og-Brutal&theme=react-dark&area=true&hide_border=true&color=00AAFF" width="100%"/>
+  <img src="./profile/snake.svg" width="100%" alt="contribution snake" />
 </div>
----
- 
+<hr/>
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul-wahab-09b364388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
