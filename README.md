@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=200&section=header&text=Abdul%20Wahab&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Backend+%26+Data+Enthusiast;FAST+NUCES+Student" />
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Og-Brutal&label=PROFILE+VIEWS&color=00AAFF&style=for-the-badge&labelColor=1a1a1a"/>
     <a href="https://github.com/Og-Brutal?tab=followers">
@@ -11,9 +13,11 @@
     </a>
   </p>
 </div>
+
 <hr/>
-# 🪐 About Me
- 
+
+<h1>🪐 About Me</h1>
+
 <table align="center">
   <tr>
     <td width="35%" align="center">
@@ -33,13 +37,16 @@
     </td>
   </tr>
 </table>
+
 <hr/>
-# 🛡️ Technical Arsenal
- 
+
+<h1>🛡️ Technical Arsenal</h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=00AAFF&center=true&vCenter=true&width=620&lines=%3E+initializing+arsenal...;%3E+languages+%E2%9C%94+++frameworks+%E2%9C%94+++infra+%E2%9C%94;%3E+all+systems+online.+ready+to+ship+%F0%9F%9A%80" />
+
   <br/><br/>
- 
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,py,js,react,nextjs,vite,tailwind&theme=dark" />
   </a>
@@ -52,7 +59,9 @@
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,git,postman,npm&theme=dark" />
   </a>
 </div>
+
 <br/>
+
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
@@ -127,25 +136,33 @@
     </td>
   </tr>
 </table>
+
 <div align="center">
   <sub>⚡ <i>Always learning. Always building.</i> ⚡</sub>
 </div>
+
 <hr/>
-# 📊 GitHub Analytics
- 
+
+<h1>📊 GitHub Analytics</h1>
+
 <div align="center">
   <img src="./profile/stats.svg" height="170" />
   <img src="./profile/top-langs.svg" height="170" />
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Og-Brutal&theme=tokyonight&hide_border=true&stroke=00AAFF&ring=00AAFF&fire=00AAFF" height="170" />
 </div>
+
 <hr/>
-### 📈 Contribution History
+
+<h3>📈 Contribution History</h3>
 <div align="center">
   <img src="./profile/snake.svg" width="100%" alt="contribution snake" />
 </div>
+
 <hr/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul-wahab-09b364388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -154,8 +171,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 <div align="center">
   <p>⭐ <b>If you find my projects useful, feel free to give them a star!</b> ⭐</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=100&section=footer" width="100%" />
 </div>
- 
